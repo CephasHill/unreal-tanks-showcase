@@ -1,0 +1,27 @@
+# Unreal Engine generated directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Local/editor files
+.idea/
+.vscode/
+*.sln
+*.suo
+
+# Packaged builds and large media
+Build/
+StagedBuilds/
+*.pak
+*.utoc
+*.ucas
+*.zip
+*.7z
+*.mp4
+*.mov
+
+# OS files
+Thumbs.db
+.DS_Store
