@@ -26,11 +26,8 @@ of any source inspiration.
 
 ## Media
 
-Add a short gameplay video or GIF here before publishing:
-
-```text
-![Gameplay preview](./media/gameplay-preview.gif)
-```
+Gameplay footage is available on
+[ArtStation](https://peterhill.artstation.com/).
 
 ## Project information
 
